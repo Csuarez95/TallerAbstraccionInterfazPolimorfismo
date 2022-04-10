@@ -1,0 +1,2 @@
+# TallerAbstraccionInterfazPolimorfismo
+El repositorio corresponde al taller de extracción de atributos genéricos e interfaces, teniendo en cuenta el artículo analizado con el cual se diseñan las clases, clase abstracta e interfaz para dar solución a lo planteado. Teniendo en cuenta lo anterior, el menú inicial se encuentra diseñado para que el usuario cree la nave que desee, dentro de la 4 opciones y al seleccionar alguna de estas, mostrará los parámetros de dicha nave, el menú es cíclico con la opción de finalizar cuando el usuario lo desee.
